@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\astro\\OneDrive\\Documentos\\Pessoal\\FACULDADE\\C#\\Seção 4\\Exercícios_de_Fixação\\Conta_Bancária\\Conta_Bancária\\Conta_Bancária.csproj": {}
+    "C:\\Users\\astro\\OneDrive\\Documentos\\Pessoal\\FACULDADE\\C#\\Parte 4\\Exercícios_de_Fixação\\Conta_Bancária\\Conta_Bancária\\Conta_Bancária.csproj": {}
   },
   "projects": {
-    "C:\\Users\\astro\\OneDrive\\Documentos\\Pessoal\\FACULDADE\\C#\\Seção 4\\Exercícios_de_Fixação\\Conta_Bancária\\Conta_Bancária\\Conta_Bancária.csproj": {
+    "C:\\Users\\astro\\OneDrive\\Documentos\\Pessoal\\FACULDADE\\C#\\Parte 4\\Exercícios_de_Fixação\\Conta_Bancária\\Conta_Bancária\\Conta_Bancária.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\astro\\OneDrive\\Documentos\\Pessoal\\FACULDADE\\C#\\Seção 4\\Exercícios_de_Fixação\\Conta_Bancária\\Conta_Bancária\\Conta_Bancária.csproj",
+        "projectUniqueName": "C:\\Users\\astro\\OneDrive\\Documentos\\Pessoal\\FACULDADE\\C#\\Parte 4\\Exercícios_de_Fixação\\Conta_Bancária\\Conta_Bancária\\Conta_Bancária.csproj",
         "projectName": "Conta_Bancária",
-        "projectPath": "C:\\Users\\astro\\OneDrive\\Documentos\\Pessoal\\FACULDADE\\C#\\Seção 4\\Exercícios_de_Fixação\\Conta_Bancária\\Conta_Bancária\\Conta_Bancária.csproj",
+        "projectPath": "C:\\Users\\astro\\OneDrive\\Documentos\\Pessoal\\FACULDADE\\C#\\Parte 4\\Exercícios_de_Fixação\\Conta_Bancária\\Conta_Bancária\\Conta_Bancária.csproj",
         "packagesPath": "C:\\Users\\astro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\astro\\OneDrive\\Documentos\\Pessoal\\FACULDADE\\C#\\Seção 4\\Exercícios_de_Fixação\\Conta_Bancária\\Conta_Bancária\\obj\\",
+        "outputPath": "C:\\Users\\astro\\OneDrive\\Documentos\\Pessoal\\FACULDADE\\C#\\Parte 4\\Exercícios_de_Fixação\\Conta_Bancária\\Conta_Bancária\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
