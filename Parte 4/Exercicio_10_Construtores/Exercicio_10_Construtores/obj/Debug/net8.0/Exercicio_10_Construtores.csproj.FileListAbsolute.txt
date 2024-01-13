@@ -1,0 +1,14 @@
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#(1)\Exercicio_10_Construtores\Exercicio_10_Construtores\bin\Debug\net8.0\Exercicio_10_Construtores.exe
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#(1)\Exercicio_10_Construtores\Exercicio_10_Construtores\bin\Debug\net8.0\Exercicio_10_Construtores.deps.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#(1)\Exercicio_10_Construtores\Exercicio_10_Construtores\bin\Debug\net8.0\Exercicio_10_Construtores.runtimeconfig.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#(1)\Exercicio_10_Construtores\Exercicio_10_Construtores\bin\Debug\net8.0\Exercicio_10_Construtores.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#(1)\Exercicio_10_Construtores\Exercicio_10_Construtores\bin\Debug\net8.0\Exercicio_10_Construtores.pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#(1)\Exercicio_10_Construtores\Exercicio_10_Construtores\obj\Debug\net8.0\Exercicio_10_Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#(1)\Exercicio_10_Construtores\Exercicio_10_Construtores\obj\Debug\net8.0\Exercicio_10_Construtores.AssemblyInfoInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#(1)\Exercicio_10_Construtores\Exercicio_10_Construtores\obj\Debug\net8.0\Exercicio_10_Construtores.AssemblyInfo.cs
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#(1)\Exercicio_10_Construtores\Exercicio_10_Construtores\obj\Debug\net8.0\Exercicio_10_Construtores.csproj.CoreCompileInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#(1)\Exercicio_10_Construtores\Exercicio_10_Construtores\obj\Debug\net8.0\Exercicio_10_Construtores.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#(1)\Exercicio_10_Construtores\Exercicio_10_Construtores\obj\Debug\net8.0\refint\Exercicio_10_Construtores.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#(1)\Exercicio_10_Construtores\Exercicio_10_Construtores\obj\Debug\net8.0\Exercicio_10_Construtores.pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#(1)\Exercicio_10_Construtores\Exercicio_10_Construtores\obj\Debug\net8.0\Exercicio_10_Construtores.genruntimeconfig.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#(1)\Exercicio_10_Construtores\Exercicio_10_Construtores\obj\Debug\net8.0\ref\Exercicio_10_Construtores.dll

@@ -1,0 +1,28 @@
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3(com OO)\Exercicio_3(com OO)\bin\Debug\net8.0\Exercicio_3(com OO).exe
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3(com OO)\Exercicio_3(com OO)\bin\Debug\net8.0\Exercicio_3(com OO).deps.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3(com OO)\Exercicio_3(com OO)\bin\Debug\net8.0\Exercicio_3(com OO).runtimeconfig.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3(com OO)\Exercicio_3(com OO)\bin\Debug\net8.0\Exercicio_3(com OO).dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3(com OO)\Exercicio_3(com OO)\bin\Debug\net8.0\Exercicio_3(com OO).pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3(com OO)\Exercicio_3(com OO)\obj\Debug\net8.0\Exercicio_3(com OO).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3(com OO)\Exercicio_3(com OO)\obj\Debug\net8.0\Exercicio_3(com OO).AssemblyInfoInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3(com OO)\Exercicio_3(com OO)\obj\Debug\net8.0\Exercicio_3(com OO).AssemblyInfo.cs
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3(com OO)\Exercicio_3(com OO)\obj\Debug\net8.0\Exercicio_3(com OO).csproj.CoreCompileInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3(com OO)\Exercicio_3(com OO)\obj\Debug\net8.0\Exercicio_3(com OO).dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3(com OO)\Exercicio_3(com OO)\obj\Debug\net8.0\refint\Exercicio_3(com OO).dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3(com OO)\Exercicio_3(com OO)\obj\Debug\net8.0\Exercicio_3(com OO).pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3(com OO)\Exercicio_3(com OO)\obj\Debug\net8.0\Exercicio_3(com OO).genruntimeconfig.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3(com OO)\Exercicio_3(com OO)\obj\Debug\net8.0\ref\Exercicio_3(com OO).dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3 (com OO)\Exercicio_3(com OO)\bin\Debug\net8.0\Exercicio_3(com OO).exe
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3 (com OO)\Exercicio_3(com OO)\bin\Debug\net8.0\Exercicio_3(com OO).deps.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3 (com OO)\Exercicio_3(com OO)\bin\Debug\net8.0\Exercicio_3(com OO).runtimeconfig.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3 (com OO)\Exercicio_3(com OO)\bin\Debug\net8.0\Exercicio_3(com OO).dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3 (com OO)\Exercicio_3(com OO)\bin\Debug\net8.0\Exercicio_3(com OO).pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3 (com OO)\Exercicio_3(com OO)\obj\Debug\net8.0\Exercicio_3(com OO).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3 (com OO)\Exercicio_3(com OO)\obj\Debug\net8.0\Exercicio_3(com OO).AssemblyInfoInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3 (com OO)\Exercicio_3(com OO)\obj\Debug\net8.0\Exercicio_3(com OO).AssemblyInfo.cs
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3 (com OO)\Exercicio_3(com OO)\obj\Debug\net8.0\Exercicio_3(com OO).csproj.CoreCompileInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3 (com OO)\Exercicio_3(com OO)\obj\Debug\net8.0\Exercicio_3(com OO).dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3 (com OO)\Exercicio_3(com OO)\obj\Debug\net8.0\refint\Exercicio_3(com OO).dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3 (com OO)\Exercicio_3(com OO)\obj\Debug\net8.0\Exercicio_3(com OO).pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3 (com OO)\Exercicio_3(com OO)\obj\Debug\net8.0\Exercicio_3(com OO).genruntimeconfig.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_3 (com OO)\Exercicio_3(com OO)\obj\Debug\net8.0\ref\Exercicio_3(com OO).dll

@@ -1,0 +1,28 @@
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_7_Metodos\Exercicio_7_Metodos\obj\Debug\net8.0\Exercicio_7_Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_7_Metodos\Exercicio_7_Metodos\obj\Debug\net8.0\Exercicio_7_Metodos.AssemblyInfoInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_7_Metodos\Exercicio_7_Metodos\obj\Debug\net8.0\Exercicio_7_Metodos.AssemblyInfo.cs
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_7_Metodos\Exercicio_7_Metodos\obj\Debug\net8.0\Exercicio_7_Metodos.csproj.CoreCompileInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_7_Metodos\Exercicio_7_Metodos\bin\Debug\net8.0\Exercicio_7_Metodos.exe
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_7_Metodos\Exercicio_7_Metodos\bin\Debug\net8.0\Exercicio_7_Metodos.deps.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_7_Metodos\Exercicio_7_Metodos\bin\Debug\net8.0\Exercicio_7_Metodos.runtimeconfig.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_7_Metodos\Exercicio_7_Metodos\bin\Debug\net8.0\Exercicio_7_Metodos.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_7_Metodos\Exercicio_7_Metodos\bin\Debug\net8.0\Exercicio_7_Metodos.pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_7_Metodos\Exercicio_7_Metodos\obj\Debug\net8.0\Exercicio_7_Metodos.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_7_Metodos\Exercicio_7_Metodos\obj\Debug\net8.0\refint\Exercicio_7_Metodos.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_7_Metodos\Exercicio_7_Metodos\obj\Debug\net8.0\Exercicio_7_Metodos.pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_7_Metodos\Exercicio_7_Metodos\obj\Debug\net8.0\Exercicio_7_Metodos.genruntimeconfig.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_7_Metodos\Exercicio_7_Metodos\obj\Debug\net8.0\ref\Exercicio_7_Metodos.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercicio_7_Metodos\Exercicio_7_Metodos\bin\Debug\net8.0\Exercicio_7_Metodos.exe
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercicio_7_Metodos\Exercicio_7_Metodos\bin\Debug\net8.0\Exercicio_7_Metodos.deps.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercicio_7_Metodos\Exercicio_7_Metodos\bin\Debug\net8.0\Exercicio_7_Metodos.runtimeconfig.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercicio_7_Metodos\Exercicio_7_Metodos\bin\Debug\net8.0\Exercicio_7_Metodos.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercicio_7_Metodos\Exercicio_7_Metodos\bin\Debug\net8.0\Exercicio_7_Metodos.pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercicio_7_Metodos\Exercicio_7_Metodos\obj\Debug\net8.0\Exercicio_7_Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercicio_7_Metodos\Exercicio_7_Metodos\obj\Debug\net8.0\Exercicio_7_Metodos.AssemblyInfoInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercicio_7_Metodos\Exercicio_7_Metodos\obj\Debug\net8.0\Exercicio_7_Metodos.AssemblyInfo.cs
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercicio_7_Metodos\Exercicio_7_Metodos\obj\Debug\net8.0\Exercicio_7_Metodos.csproj.CoreCompileInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercicio_7_Metodos\Exercicio_7_Metodos\obj\Debug\net8.0\Exercicio_7_Metodos.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercicio_7_Metodos\Exercicio_7_Metodos\obj\Debug\net8.0\refint\Exercicio_7_Metodos.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercicio_7_Metodos\Exercicio_7_Metodos\obj\Debug\net8.0\Exercicio_7_Metodos.pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercicio_7_Metodos\Exercicio_7_Metodos\obj\Debug\net8.0\Exercicio_7_Metodos.genruntimeconfig.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercicio_7_Metodos\Exercicio_7_Metodos\obj\Debug\net8.0\ref\Exercicio_7_Metodos.dll

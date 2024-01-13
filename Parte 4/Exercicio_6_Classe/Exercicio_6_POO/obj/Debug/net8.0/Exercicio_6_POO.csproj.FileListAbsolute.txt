@@ -1,0 +1,14 @@
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_6_POO\Exercicio_6_POO\bin\Debug\net8.0\Exercicio_6_POO.exe
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_6_POO\Exercicio_6_POO\bin\Debug\net8.0\Exercicio_6_POO.deps.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_6_POO\Exercicio_6_POO\bin\Debug\net8.0\Exercicio_6_POO.runtimeconfig.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_6_POO\Exercicio_6_POO\bin\Debug\net8.0\Exercicio_6_POO.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_6_POO\Exercicio_6_POO\bin\Debug\net8.0\Exercicio_6_POO.pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_6_POO\Exercicio_6_POO\obj\Debug\net8.0\Exercicio_6_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_6_POO\Exercicio_6_POO\obj\Debug\net8.0\Exercicio_6_POO.AssemblyInfoInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_6_POO\Exercicio_6_POO\obj\Debug\net8.0\Exercicio_6_POO.AssemblyInfo.cs
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_6_POO\Exercicio_6_POO\obj\Debug\net8.0\Exercicio_6_POO.csproj.CoreCompileInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_6_POO\Exercicio_6_POO\obj\Debug\net8.0\Exercicio_6_POO.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_6_POO\Exercicio_6_POO\obj\Debug\net8.0\refint\Exercicio_6_POO.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_6_POO\Exercicio_6_POO\obj\Debug\net8.0\Exercicio_6_POO.pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_6_POO\Exercicio_6_POO\obj\Debug\net8.0\Exercicio_6_POO.genruntimeconfig.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Exercicio_6_POO\Exercicio_6_POO\obj\Debug\net8.0\ref\Exercicio_6_POO.dll

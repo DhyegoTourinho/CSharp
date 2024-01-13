@@ -1,0 +1,14 @@
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercícios_de_Fixação\Conta_Bancária\Conta_Bancária\bin\Debug\net8.0\Conta_Bancária.exe
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercícios_de_Fixação\Conta_Bancária\Conta_Bancária\bin\Debug\net8.0\Conta_Bancária.deps.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercícios_de_Fixação\Conta_Bancária\Conta_Bancária\bin\Debug\net8.0\Conta_Bancária.runtimeconfig.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercícios_de_Fixação\Conta_Bancária\Conta_Bancária\bin\Debug\net8.0\Conta_Bancária.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercícios_de_Fixação\Conta_Bancária\Conta_Bancária\bin\Debug\net8.0\Conta_Bancária.pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercícios_de_Fixação\Conta_Bancária\Conta_Bancária\obj\Debug\net8.0\Conta_Bancária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercícios_de_Fixação\Conta_Bancária\Conta_Bancária\obj\Debug\net8.0\Conta_Bancária.AssemblyInfoInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercícios_de_Fixação\Conta_Bancária\Conta_Bancária\obj\Debug\net8.0\Conta_Bancária.AssemblyInfo.cs
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercícios_de_Fixação\Conta_Bancária\Conta_Bancária\obj\Debug\net8.0\Conta_Bancária.csproj.CoreCompileInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercícios_de_Fixação\Conta_Bancária\Conta_Bancária\obj\Debug\net8.0\Conta_Bancária.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercícios_de_Fixação\Conta_Bancária\Conta_Bancária\obj\Debug\net8.0\refint\Conta_Bancária.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercícios_de_Fixação\Conta_Bancária\Conta_Bancária\obj\Debug\net8.0\Conta_Bancária.pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercícios_de_Fixação\Conta_Bancária\Conta_Bancária\obj\Debug\net8.0\Conta_Bancária.genruntimeconfig.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\Seção 4\Exercícios_de_Fixação\Conta_Bancária\Conta_Bancária\obj\Debug\net8.0\ref\Conta_Bancária.dll

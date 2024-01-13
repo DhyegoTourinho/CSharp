@@ -1,0 +1,14 @@
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\MembrosEstaticos_2\MembrosEstaticos_2\bin\Debug\net8.0\MembrosEstaticos_2.exe
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\MembrosEstaticos_2\MembrosEstaticos_2\bin\Debug\net8.0\MembrosEstaticos_2.deps.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\MembrosEstaticos_2\MembrosEstaticos_2\bin\Debug\net8.0\MembrosEstaticos_2.runtimeconfig.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\MembrosEstaticos_2\MembrosEstaticos_2\bin\Debug\net8.0\MembrosEstaticos_2.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\MembrosEstaticos_2\MembrosEstaticos_2\bin\Debug\net8.0\MembrosEstaticos_2.pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\MembrosEstaticos_2\MembrosEstaticos_2\obj\Debug\net8.0\MembrosEstaticos_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\MembrosEstaticos_2\MembrosEstaticos_2\obj\Debug\net8.0\MembrosEstaticos_2.AssemblyInfoInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\MembrosEstaticos_2\MembrosEstaticos_2\obj\Debug\net8.0\MembrosEstaticos_2.AssemblyInfo.cs
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\MembrosEstaticos_2\MembrosEstaticos_2\obj\Debug\net8.0\MembrosEstaticos_2.csproj.CoreCompileInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\MembrosEstaticos_2\MembrosEstaticos_2\obj\Debug\net8.0\MembrosEstaticos_2.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\MembrosEstaticos_2\MembrosEstaticos_2\obj\Debug\net8.0\refint\MembrosEstaticos_2.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\MembrosEstaticos_2\MembrosEstaticos_2\obj\Debug\net8.0\MembrosEstaticos_2.pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\MembrosEstaticos_2\MembrosEstaticos_2\obj\Debug\net8.0\MembrosEstaticos_2.genruntimeconfig.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\FACULDADE\C#\MembrosEstaticos_2\MembrosEstaticos_2\obj\Debug\net8.0\ref\MembrosEstaticos_2.dll
