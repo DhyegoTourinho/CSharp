@@ -1,0 +1,15 @@
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 10\DesafioHerancaPolimorfismo\DesafioHerancaPolimorfismo\bin\Debug\net8.0\DesafioHerancaPolimorfismo.exe
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 10\DesafioHerancaPolimorfismo\DesafioHerancaPolimorfismo\bin\Debug\net8.0\DesafioHerancaPolimorfismo.deps.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 10\DesafioHerancaPolimorfismo\DesafioHerancaPolimorfismo\bin\Debug\net8.0\DesafioHerancaPolimorfismo.runtimeconfig.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 10\DesafioHerancaPolimorfismo\DesafioHerancaPolimorfismo\bin\Debug\net8.0\DesafioHerancaPolimorfismo.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 10\DesafioHerancaPolimorfismo\DesafioHerancaPolimorfismo\bin\Debug\net8.0\DesafioHerancaPolimorfismo.pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 10\DesafioHerancaPolimorfismo\DesafioHerancaPolimorfismo\obj\Debug\net8.0\DesafioHerancaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 10\DesafioHerancaPolimorfismo\DesafioHerancaPolimorfismo\obj\Debug\net8.0\DesafioHerancaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 10\DesafioHerancaPolimorfismo\DesafioHerancaPolimorfismo\obj\Debug\net8.0\DesafioHerancaPolimorfismo.AssemblyInfo.cs
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 10\DesafioHerancaPolimorfismo\DesafioHerancaPolimorfismo\obj\Debug\net8.0\DesafioHerancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 10\DesafioHerancaPolimorfismo\DesafioHerancaPolimorfismo\obj\Debug\net8.0\DesafioHerancaPolimorfismo.sourcelink.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 10\DesafioHerancaPolimorfismo\DesafioHerancaPolimorfismo\obj\Debug\net8.0\DesafioHerancaPolimorfismo.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 10\DesafioHerancaPolimorfismo\DesafioHerancaPolimorfismo\obj\Debug\net8.0\refint\DesafioHerancaPolimorfismo.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 10\DesafioHerancaPolimorfismo\DesafioHerancaPolimorfismo\obj\Debug\net8.0\DesafioHerancaPolimorfismo.pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 10\DesafioHerancaPolimorfismo\DesafioHerancaPolimorfismo\obj\Debug\net8.0\DesafioHerancaPolimorfismo.genruntimeconfig.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 10\DesafioHerancaPolimorfismo\DesafioHerancaPolimorfismo\obj\Debug\net8.0\ref\DesafioHerancaPolimorfismo.dll
