@@ -1,0 +1,15 @@
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 9\Enumeracoes\Enumeracoes\bin\Debug\net8.0\Enumeracoes.exe
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 9\Enumeracoes\Enumeracoes\bin\Debug\net8.0\Enumeracoes.deps.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 9\Enumeracoes\Enumeracoes\bin\Debug\net8.0\Enumeracoes.runtimeconfig.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 9\Enumeracoes\Enumeracoes\bin\Debug\net8.0\Enumeracoes.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 9\Enumeracoes\Enumeracoes\bin\Debug\net8.0\Enumeracoes.pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 9\Enumeracoes\Enumeracoes\obj\Debug\net8.0\Enumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 9\Enumeracoes\Enumeracoes\obj\Debug\net8.0\Enumeracoes.AssemblyInfoInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 9\Enumeracoes\Enumeracoes\obj\Debug\net8.0\Enumeracoes.AssemblyInfo.cs
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 9\Enumeracoes\Enumeracoes\obj\Debug\net8.0\Enumeracoes.csproj.CoreCompileInputs.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 9\Enumeracoes\Enumeracoes\obj\Debug\net8.0\Enumeracoes.sourcelink.json
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 9\Enumeracoes\Enumeracoes\obj\Debug\net8.0\Enumeracoes.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 9\Enumeracoes\Enumeracoes\obj\Debug\net8.0\refint\Enumeracoes.dll
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 9\Enumeracoes\Enumeracoes\obj\Debug\net8.0\Enumeracoes.pdb
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 9\Enumeracoes\Enumeracoes\obj\Debug\net8.0\Enumeracoes.genruntimeconfig.cache
+C:\Users\astro\OneDrive\Documentos\Pessoal\Faculdade\C#\Seção 9\Enumeracoes\Enumeracoes\obj\Debug\net8.0\ref\Enumeracoes.dll
